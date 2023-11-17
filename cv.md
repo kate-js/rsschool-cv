@@ -1,27 +1,24 @@
 # Katsiaryna Vakulskaya
+
 **kate.vakulskaya@gmail.com**
+
 **Wroclaw, Poland**
 
 I am currently studying React Native, having previously spent a year learning JavaScript and React. Looking for a Junior Developer or Trainee position.
 
 ## **Skills**
 
-**Programming
-Languages**
+**Programming Languages** :JavaScript, TypeScript.
 
-JavaScript, TypeScript.
+**Frontend**: HTML5, CSS3, React, Redux Toolkit, react-router, styled-components, Sass, Material UI.
 
-**Frontend**
-
-HTML5, CSS3, React, Redux Toolkit, react-router, styled-components, Sass, Material UI.
-
-**Other**
-
-Git, GitHub.
+**Other**: Git, GitHub.
 
 **Languages**
 
-English (Pre-Intermediate), Polish (Beginner).
+English (Pre-Intermediate), 
+
+Polish (Beginner).
 
 ## **Education**
 
