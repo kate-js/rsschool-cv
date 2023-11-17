@@ -8,17 +8,13 @@ I am currently studying React Native, having previously spent a year learning Ja
 
 ## **Skills**
 
-**Programming Languages** :JavaScript, TypeScript.
+- **Programming Languages** :JavaScript, TypeScript.
 
-**Frontend**: HTML5, CSS3, React, Redux Toolkit, react-router, styled-components, Sass, Material UI.
+- **Frontend**: HTML5, CSS3, React, Redux Toolkit, react-router, styled-components, Sass, Material UI.
 
-**Other**: Git, GitHub.
+- **Other**: Git, GitHub.
 
-**Languages**
-
-English (Pre-Intermediate), 
-
-Polish (Beginner).
+- **Languages**: English (Pre-Intermediate), Polish (Beginner), Russian (native).
 
 ## **Education**
 
