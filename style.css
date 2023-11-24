@@ -55,7 +55,6 @@ nav ul li {
 }
 
 .main-info {
-  height: 210px;
   align-items: center;
   display: flex;
 }
@@ -166,4 +165,9 @@ xmp {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+pre {
+  white-space: pre-wrap;
+  word-break: break-all;
 }
