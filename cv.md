@@ -23,5 +23,6 @@ I am currently studying React Native, having previously spent a year learning Ja
 ## Add **Education**
 
 The Rolling Scopes School
+
 - REACT (Sep, 2022 - Dec, 2022)
 - JavaScript/Front-end (Feb, 2022 - Sep, 2022)
